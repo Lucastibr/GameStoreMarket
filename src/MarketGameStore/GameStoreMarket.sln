@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GSM.Core", "HotelBR.Core\GSM.Core.csproj", "{C961E339-58AC-48B5-B840-BFDC45BF484A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GSM.Data", "GSM.Data\GSM.Data.csproj", "{B7907201-6F78-4A69-BA20-A7B006DDE028}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "GSM.DTO", "GSM.DTO\GSM.DTO.shproj", "{BEEB23A8-5521-425C-B69C-0649D3617216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSM.Api", "GSM.Api\GSM.Api.csproj", "{562D64BF-DC49-4A04-87E6-38FBBE27711D}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		GSM.DTO\GSM.DTO.projitems*{beeb23a8-5521-425c-b69c-0649d3617216}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C961E339-58AC-48B5-B840-BFDC45BF484A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C961E339-58AC-48B5-B840-BFDC45BF484A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C961E339-58AC-48B5-B840-BFDC45BF484A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C961E339-58AC-48B5-B840-BFDC45BF484A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7907201-6F78-4A69-BA20-A7B006DDE028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7907201-6F78-4A69-BA20-A7B006DDE028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7907201-6F78-4A69-BA20-A7B006DDE028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7907201-6F78-4A69-BA20-A7B006DDE028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{562D64BF-DC49-4A04-87E6-38FBBE27711D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562D64BF-DC49-4A04-87E6-38FBBE27711D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562D64BF-DC49-4A04-87E6-38FBBE27711D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562D64BF-DC49-4A04-87E6-38FBBE27711D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D39E7F1-AF42-4A2E-A7BA-531963327F64}
+	EndGlobalSection
+EndGlobal
