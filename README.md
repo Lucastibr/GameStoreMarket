@@ -1,6 +1,6 @@
 # MarketGameStore
-Market Game Store é um projeto de ECommerce de games. 
+Market Game Store é um projeto de ECommerce de Games. 
 
 # Projeto Criado com .NET 5.0
 
-# Projeto ainda em início de construção.
+# Projeto em início, somente escopo inicial.

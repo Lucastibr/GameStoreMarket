@@ -22,8 +22,5 @@ namespace GSM.Api.Controllers
             return Json(model);
         }
 
-
-
-
     }
 }
